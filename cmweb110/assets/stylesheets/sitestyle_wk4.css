@@ -1,0 +1,40 @@
+body {background: #c2008e;
+background-image: url(../graphics/background.jpg);
+background-repeat: repeat-x;
+margin: 0px;
+padding: 1%;
+font-family: 'bookman old style', serif;
+color: #000000;
+}
+
+a:link {color: #ceff9c; font-weight: 700;
+}
+
+a:visited {color: #b39087; font-weight: 700;
+}
+
+a:hover {background: #ff00e100; color: #fb00ff; font-weight: 700; transition: 1s steps(4); cursor: pointer;
+}
+
+a:active {color: #ffff00; font-weight: 700;
+}
+
+table, th, td {
+    border: 1px solid greenyellow;    
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+}
+
+.pattern {
+    background-image: url("../images/pattern.jpg");
+}
+
+.color {
+    background-color: white;
+}

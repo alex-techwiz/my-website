@@ -1,0 +1,20 @@
+body {background: #6e0051;
+background-image: url(../graphics/background.jpg);
+background-repeat: repeat-x;
+margin: 0px;
+padding: 1%;
+font-family: 'bookman old style', serif;
+color: #00cdec;
+}
+
+a:link {color: #ceff9c; font-weight: 700;
+}
+
+a:visited {color: #b39087; font-weight: 700;
+}
+
+a:hover {background: #ff00e100; color: #fb00ff; font-weight: 700; transition: 1s steps(4); cursor: pointer;
+}
+
+a:active {color: #ffff00; font-weight: 700;
+}
